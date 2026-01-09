@@ -630,8 +630,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Support & Community
 
-- **Issues:** Report bugs or request features on [GitHub Issues](https://github.com/Gaurav-pasi/codebase-indexer/issues)
-- **Discussions:** Ask questions on [GitHub Discussions](https://github.com/Gaurav-pasi/codebase-indexer/discussions)
+- **Issues:** Report bugs or request features on [GitHub Issues](https://github.com/Gaurav-pasi/codebase-indexer-cli/issues)
+- **Discussions:** Ask questions on [GitHub Discussions](https://github.com/Gaurav-pasi/codebase-indexer-cli/discussions)
 
 ---
 

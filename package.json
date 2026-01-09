@@ -45,10 +45,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gaurav-pasi/codebase-indexer"
+    "url": "https://github.com/Gaurav-pasi/codebase-indexer-cli"
   },
   "bugs": {
-    "url": "https://github.com/Gaurav-pasi/codebase-indexer/issues"
+    "url": "https://github.com/Gaurav-pasi/codebase-indexer-cli/issues"
   },
-  "homepage": "https://github.com/Gaurav-pasi/codebase-indexer#readme"
+  "homepage": "https://github.com/Gaurav-pasi/codebase-indexer-cli#readme"
 }
