@@ -1,5 +1,5 @@
 {
-  "name": "@codebase-indexer/cli",
+  "name": "codebase-indexer-cli",
   "version": "1.0.0",
   "description": "Save 85-95% on AI tokens by indexing your codebase for Claude Code and other AI tools",
   "bin": {

@@ -2,7 +2,7 @@
 
 **Save 85-95% on AI tokens by indexing your code once, instead of reading hundreds of files every time!**
 
-[![npm version](https://img.shields.io/npm/v/@codebase-indexer/cli.svg)](https://www.npmjs.com/package/@codebase-indexer/cli)
+[![npm version](https://img.shields.io/npm/v/codebase-indexer-cli.svg)](https://www.npmjs.com/package/codebase-indexer-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What Problem Does This Solve?
@@ -45,7 +45,7 @@ Claude: *reads only those 3 files*
 ### Installation
 
 ```bash
-npm install -g @codebase-indexer/cli
+npm install -g codebase-indexer-cli
 ```
 
 **Verify installation:**
@@ -422,7 +422,7 @@ Common exclusions: `node_modules`, `.git`, `dist`, `build`, `target`
 
 **Fix:**
 ```bash
-npm install -g @codebase-indexer/cli
+npm install -g codebase-indexer-cli
 
 # If still not working, try:
 npm link
@@ -500,7 +500,7 @@ If you want to remove everything:
 
 ```bash
 # Uninstall npm package
-npm uninstall -g @codebase-indexer/cli
+npm uninstall -g codebase-indexer-cli
 ```
 
 **Optional: Remove all data**
@@ -649,7 +649,7 @@ Special thanks to:
 **Ready to save 85-95% on AI tokens?** 🚀
 
 ```bash
-npm install -g @codebase-indexer/cli
+npm install -g codebase-indexer-cli
 cindex add . --name "My Project" --index
 ```
 
