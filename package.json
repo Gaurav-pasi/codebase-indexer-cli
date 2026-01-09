@@ -1,0 +1,54 @@
+{
+  "name": "@codebase-indexer/cli",
+  "version": "1.0.0",
+  "description": "Save 85-95% on AI tokens by indexing your codebase for Claude Code and other AI tools",
+  "bin": {
+    "cindex": "./bin/cindex.js"
+  },
+  "main": "./lib/index.js",
+  "files": [
+    "bin/",
+    "lib/",
+    "config/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "ora": "^5.4.1",
+    "inquirer": "^8.2.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "codebase-indexer",
+    "claude-code",
+    "ai-tools",
+    "token-reduction",
+    "code-search",
+    "multi-project",
+    "developer-tools",
+    "productivity",
+    "cost-saving",
+    "ai-assistant",
+    "code-navigation",
+    "anthropic",
+    "claude"
+  ],
+  "author": "Gaurav Pasi <gauravpasi9594@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gaurav-pasi/codebase-indexer"
+  },
+  "bugs": {
+    "url": "https://github.com/Gaurav-pasi/codebase-indexer/issues"
+  },
+  "homepage": "https://github.com/Gaurav-pasi/codebase-indexer#readme"
+}
